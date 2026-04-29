@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/skylarbpayne/msgcli/internal/auth"
-	"github.com/skylarbpayne/msgcli/internal/graph"
+	"github.com/arunsanna/msgcli/internal/auth"
+	"github.com/arunsanna/msgcli/internal/graph"
 	"github.com/spf13/cobra"
 )
 

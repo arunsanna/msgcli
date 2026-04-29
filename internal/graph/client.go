@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/skylarbpayne/msgcli/internal/auth"
+	"github.com/arunsanna/msgcli/internal/auth"
 )
 
 const (

@@ -1,4 +1,4 @@
-module github.com/skylarbpayne/msgcli
+module github.com/arunsanna/msgcli
 
 go 1.25.6
 

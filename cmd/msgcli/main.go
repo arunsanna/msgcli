@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/skylarbpayne/msgcli/internal/cmd"
+	"github.com/arunsanna/msgcli/internal/cmd"
 )
 
 func main() {

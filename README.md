@@ -51,10 +51,10 @@ $ msgcli mail list -o json | jq '.[0].subject'
 
 ```bash
 # Option A: Go install
-go install github.com/skylarbpayne/msgcli/cmd/msgcli@latest
+go install github.com/arunsanna/msgcli/cmd/msgcli@latest
 
 # Option B: Build from source
-git clone https://github.com/skylarbpayne/msgcli.git
+git clone https://github.com/arunsanna/msgcli.git
 cd msgcli
 make build
 ./bin/msgcli --help

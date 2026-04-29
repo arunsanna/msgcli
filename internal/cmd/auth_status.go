@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/skylarbpayne/msgcli/internal/auth"
+	"github.com/arunsanna/msgcli/internal/auth"
 	"github.com/spf13/cobra"
 )
 
